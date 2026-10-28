@@ -24,7 +24,7 @@ h1,footer {
     color: #fff;
 }
 .top { display: flex; justify-content: space-between; align-items: center; }
-nav ul { flex-direction: column; display: flex; gap: 8px; liststyle: none; margin: 0; padding: 0; }
+nav ul { flex-direction: column; display: flex; gap: 8px; list-style: none; margin: 0; padding: 0; }
 nav a { color: #fff; text-decoration: none; }
 .board { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
 .hero {background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
